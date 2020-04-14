@@ -1,0 +1,10 @@
+C:\Users\waffc\OneDrive\Documents\cs478code\CS478-text-adventure-game\CS478-text-adventure-game\bin\Debug\CS478-text-adventure-game.exe.config
+C:\Users\waffc\OneDrive\Documents\cs478code\CS478-text-adventure-game\CS478-text-adventure-game\bin\Debug\CS478-text-adventure-game.exe
+C:\Users\waffc\OneDrive\Documents\cs478code\CS478-text-adventure-game\CS478-text-adventure-game\bin\Debug\CS478-text-adventure-game.pdb
+C:\Users\waffc\OneDrive\Documents\cs478code\CS478-text-adventure-game\CS478-text-adventure-game\obj\Debug\CS478-text-adventure-game.csprojAssemblyReference.cache
+C:\Users\waffc\OneDrive\Documents\cs478code\CS478-text-adventure-game\CS478-text-adventure-game\obj\Debug\CS478_text_adventure_game.Properties.Resources.resources
+C:\Users\waffc\OneDrive\Documents\cs478code\CS478-text-adventure-game\CS478-text-adventure-game\obj\Debug\CS478-text-adventure-game.csproj.GenerateResource.cache
+C:\Users\waffc\OneDrive\Documents\cs478code\CS478-text-adventure-game\CS478-text-adventure-game\obj\Debug\CS478-text-adventure-game.csproj.CoreCompileInputs.cache
+C:\Users\waffc\OneDrive\Documents\cs478code\CS478-text-adventure-game\CS478-text-adventure-game\obj\Debug\CS478-text-adventure-game.exe
+C:\Users\waffc\OneDrive\Documents\cs478code\CS478-text-adventure-game\CS478-text-adventure-game\obj\Debug\CS478-text-adventure-game.pdb
+C:\Users\waffc\OneDrive\Documents\cs478code\CS478-text-adventure-game\CS478-text-adventure-game\obj\Debug\CS478_text_adventure_game.startForm.resources
