@@ -8,3 +8,15 @@ C:\Users\waffc\OneDrive\Documents\cs478code\CS478-text-adventure-game\CS478-text
 C:\Users\waffc\OneDrive\Documents\cs478code\CS478-text-adventure-game\CS478-text-adventure-game\obj\Debug\CS478-text-adventure-game.exe
 C:\Users\waffc\OneDrive\Documents\cs478code\CS478-text-adventure-game\CS478-text-adventure-game\obj\Debug\CS478-text-adventure-game.pdb
 C:\Users\waffc\OneDrive\Documents\cs478code\CS478-text-adventure-game\CS478-text-adventure-game\obj\Debug\CS478_text_adventure_game.startForm.resources
+F:\Keith Mitchell\Documents\School\Notes\CS478\Software-Dev-master1\Software-Dev-master\CS478-text-adventure-game\CS478-text-adventure-game\bin\Debug\CS478-text-adventure-game.exe.config
+F:\Keith Mitchell\Documents\School\Notes\CS478\Software-Dev-master1\Software-Dev-master\CS478-text-adventure-game\CS478-text-adventure-game\bin\Debug\CS478-text-adventure-game.exe
+F:\Keith Mitchell\Documents\School\Notes\CS478\Software-Dev-master1\Software-Dev-master\CS478-text-adventure-game\CS478-text-adventure-game\bin\Debug\CS478-text-adventure-game.pdb
+F:\Keith Mitchell\Documents\School\Notes\CS478\Software-Dev-master1\Software-Dev-master\CS478-text-adventure-game\CS478-text-adventure-game\obj\Debug\CS478-text-adventure-game.csprojAssemblyReference.cache
+F:\Keith Mitchell\Documents\School\Notes\CS478\Software-Dev-master1\Software-Dev-master\CS478-text-adventure-game\CS478-text-adventure-game\obj\Debug\CS478_text_adventure_game.gameForm.resources
+F:\Keith Mitchell\Documents\School\Notes\CS478\Software-Dev-master1\Software-Dev-master\CS478-text-adventure-game\CS478-text-adventure-game\obj\Debug\CS478_text_adventure_game.optionsForm.resources
+F:\Keith Mitchell\Documents\School\Notes\CS478\Software-Dev-master1\Software-Dev-master\CS478-text-adventure-game\CS478-text-adventure-game\obj\Debug\CS478_text_adventure_game.startForm.resources
+F:\Keith Mitchell\Documents\School\Notes\CS478\Software-Dev-master1\Software-Dev-master\CS478-text-adventure-game\CS478-text-adventure-game\obj\Debug\CS478_text_adventure_game.Properties.Resources.resources
+F:\Keith Mitchell\Documents\School\Notes\CS478\Software-Dev-master1\Software-Dev-master\CS478-text-adventure-game\CS478-text-adventure-game\obj\Debug\CS478-text-adventure-game.csproj.GenerateResource.cache
+F:\Keith Mitchell\Documents\School\Notes\CS478\Software-Dev-master1\Software-Dev-master\CS478-text-adventure-game\CS478-text-adventure-game\obj\Debug\CS478-text-adventure-game.csproj.CoreCompileInputs.cache
+F:\Keith Mitchell\Documents\School\Notes\CS478\Software-Dev-master1\Software-Dev-master\CS478-text-adventure-game\CS478-text-adventure-game\obj\Debug\CS478-text-adventure-game.exe
+F:\Keith Mitchell\Documents\School\Notes\CS478\Software-Dev-master1\Software-Dev-master\CS478-text-adventure-game\CS478-text-adventure-game\obj\Debug\CS478-text-adventure-game.pdb
